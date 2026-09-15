@@ -5,6 +5,7 @@
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
+<a id="ipv6"></a>
 # 🌐 IPv6 的开启和检测方法
 
 > 最后更新：(2026年09月07日)
