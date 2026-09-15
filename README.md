@@ -116,4 +116,4 @@
 
 ### 📖 原文
 
-[IPv6 的开启和检测方法](https://github.com/jdnei/ipv6)
+[IPv6 的开启和检测方法](https://github.com/jdnei/ipv6#ipv6)
