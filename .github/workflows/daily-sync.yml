@@ -41,7 +41,7 @@ jobs:
             fi
           }
 
-          update_file "README.md" "${Y}年${M}月${D}日更新"
+          update_file "README.md" "${Y}年${M}月${D}日"
           update_file "README_EN.md" "Updated ${EN_MONTHS[$IDX]} ${D}, ${Y}"
           update_file "README_RU.md" "обновлено ${D} ${RU_MONTHS[$IDX]} ${Y}"
           update_file "README_FA.md" "به‌روزرسانی ${D} ${FA_MONTHS[$IDX]} ${Y}"
