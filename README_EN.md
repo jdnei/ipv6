@@ -5,7 +5,7 @@
 
 <a id="ipv6"></a>
 
-# 🌐 How to Enable and Test IPv6 (Updated November 2, 2026)
+# 🌐 How to Enable and Test IPv6 (Updated November 3, 2026)
 
 > Internet restrictions in mainland China are becoming increasingly strict, and many VPN servers are no longer accessible. Enabling IPv6 is strongly recommended as a potential solution. This is an essential skill that every VPN user should learn.<br>
 
